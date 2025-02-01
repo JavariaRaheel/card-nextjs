@@ -11,7 +11,7 @@ export default function Home() {
         <div className="container">
           <h2 className="text-2xl font-bold">Home Page</h2>
           <p className="w-full font-medium py-2">
-            Welcome to <strong>HIJABEEZ HUB!</strong> Explore our curated collection of elegant hijabs and accessories crafted for every occasion. We bring you quality, comfort, and style to enhance your modest wardrobe. Whether you're looking for everyday essentials or statement pieces, our range is designed with elegance and ease in mind.  
+            Welcome to <strong>HIJABEEZ HUB!</strong> Explore our curated collection of elegant hijabs and accessories crafted for every occasion. We bring you quality, comfort, and style to enhance your modest wardrobe. Whether you&apos;re looking for everyday essentials or statement pieces, our range is designed with elegance and ease in mind.
           </p>
         </div>
       </section>
